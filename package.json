@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon customer app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "testMe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baldir407/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Jose Arbelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baldir407/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Baldir407/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
